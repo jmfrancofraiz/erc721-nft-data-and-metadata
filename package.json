@@ -1,0 +1,15 @@
+{
+  "name": "nft-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "jmfrancofraiz",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.3.0",
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "ganache-cli": "^6.9.1",
+    "global": "^4.4.0",
+    "web3": "^1.2.9"
+  }
+}
